@@ -1,0 +1,4 @@
+num of prcoess came into the system :30
+num of process that sucessfully completed :26
+num of process that missed deadline :4
+The avrage waiting time :2.53333
